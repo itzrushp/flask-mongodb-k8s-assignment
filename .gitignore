@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.env
+venv/
+env/
+
+# Docker
+.dockerignore
+
+# Kubernetes
+*.log
+.kube/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Minikube
+minikube/
